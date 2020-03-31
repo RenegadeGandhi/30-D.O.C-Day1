@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    height: 100%;
+    font-family: 'Comic Neue', cursive;
+    background-color: whitesmoke;
+}
+
+.intro{
+    background-color: #37A67D;
+    padding-left: 23%;
+    padding-right: 33%;
+    color: whitesmoke;
+}
+
+.intro h1{
+    margin-bottom: 8px;
+    padding-top: 10px;
+    font-size: 320%;
+    border-bottom:1px solid whitesmoke;
+}
+
+.intro p{
+    margin: 0;
+    padding-bottom: 5px;
+    font-style: italic;
+    font-size: 100%;
+
+}
+
+.the-form{
+    padding-left: 23%;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    background-color: whitesmoke;
+    margin-bottom: 0;
+}
+
+.full-name{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#name{
+    margin-top: 6px;
+    width: 380px;
+    height: 35px;
+    margin-bottom: 15px;
+}
+
+.u-email{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#email{
+    margin-top: 6px;
+    width: 380px;
+    height: 35px;
+    margin-bottom: 15px;
+}
+
+.u-message{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#message{
+    margin-top: 6px;
+    width: 380px;
+    height: 130px;
+}
+
+button{
+    margin-top: 15px;
+    padding: 12px 40px 12px 40px;
+    background-color: #37A67D;
+    color: whitesmoke;
+    font-size: 15px;
+    border: none;
+}
+
+.footer{
+    background-color: #71D980;
+    text-align: end;
+    color: rgb(17, 4, 4);
+    font-weight: 500;
+    font-size: 80%;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p{
+    margin: 0;
+    padding-right: 15px;
+}
